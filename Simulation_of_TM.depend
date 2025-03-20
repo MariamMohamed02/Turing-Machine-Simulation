@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1714410454 source:c:\users\admin\desktop\turing machine project\simulation_of_tm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
